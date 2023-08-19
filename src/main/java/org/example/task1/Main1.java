@@ -1,10 +1,10 @@
-package org.example;
+package org.example.task1;
 
 import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-public class Main {
+public class Main1 {
     public static void main(String[] args) {
         try {
             Scanner scanner = new Scanner(Paths.get("C:\\Users\\tnt99\\IdeaProjects\\sber-trainee\\BC.csv"));
